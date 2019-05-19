@@ -1,0 +1,9 @@
+A Record 1
+    HOSTNAME: @
+    IP ADDRESS: 192.30.252.153
+    TTL: 15Min
+
+A Record 2
+    HOSTNAME: @
+    IP ADDRESS: 192.30.252.154
+    TTL: 15Min
